@@ -76,7 +76,10 @@ bash main.sh
 
 ### output (image1)
  
-  <img src="https://github.com/leeseomin/arte15/blob/main/out/11toon14.png" width="2000">
+  <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/11toon4cpu1.png" width="2000">
+  
+  <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/11toon5cpu1.png" width="2000">
+
   
 
 
