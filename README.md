@@ -71,12 +71,22 @@ bash main.sh
 ###  Results
 
 
-
 ### input image1
+
+ <img src="https://github.com/leeseomin/arte5_TOON/blob/main/s/IMG_2945.png" width="700">
+
+### output (image1)
+ 
+  <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/IMG_2945toon5cpu1.png" width="2000">
+
+
+
+
+### input image2
 
  <img src="https://github.com/leeseomin/arte5_TOON/blob/main/s/11.png" width="700">
 
-### output (image1)
+### output (image2)
  
   <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/11toon4cpu1.png" width="2000">
   
