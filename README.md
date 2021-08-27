@@ -84,13 +84,12 @@ bash main.sh
 
 ### input image2
 
- <img src="https://github.com/leeseomin/arte5_TOON/blob/main/s/11.png" width="700">
+ <img src="https://github.com/leeseomin/arte5_TOON/blob/main/s/IMG_2966.png" width="700">
 
 ### output (image2)
  
-  <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/11toon4cpu1.png" width="2000">
+  <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/IMG_2966toon4cpu1.png" width="2000">
   
-  <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/11toon5cpu1.png" width="2000">
 
   
 
