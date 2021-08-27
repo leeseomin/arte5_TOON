@@ -1,5 +1,7 @@
 # arte5_TOON  =  arte5 x toon
 
+  <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/11toon4cpu1.png" width="2000">
+
 
 
 ### Dependency install on ubuntu 16.04  + torch7 + cuda+  nvidia Pascal gpus (ex. gtx1080ti, gtx1080, gtx1070, gtx1070ti)
@@ -72,7 +74,7 @@ bash main.sh
 
 ### input image1
 
- <img src="https://github.com/leeseomin/arte15/blob/main/s/11.png" width="700">
+ <img src="https://github.com/leeseomin/arte5_TOON/blob/main/s/11.png" width="700">
 
 ### output (image1)
  
