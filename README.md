@@ -91,6 +91,10 @@ bash main.sh
   <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/IMG_2966toon4cpu1.png" width="2000">
   
 
+### input image3
+
+  <img src="https://github.com/leeseomin/arte5_TOON/blob/main/out/2882.png" width="1900">
+
   
 
 
